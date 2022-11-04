@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Nov 02 19:53:27 CET 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0184-39b0-ec16-0000026f5828 
+on database directory C:\Users\Ivan\Documents\NetBeansProjects\AppAgenda\BDAgenda with class loader sun.misc.Launcher$AppClassLoader@6d6f6e28 
+Loaded from file:/C:/Users/Ivan/Documents/NetBeansProjects/AppAgenda/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_221-b11
+user.dir=C:\Users\Ivan\Documents\NetBeansProjects\AppAgenda
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
